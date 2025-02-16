@@ -1,4 +1,4 @@
-# AiFi Ecosystem Map
+# Awesome AiFi Ecosystem Map
 
 A curated overview of projects and protocols pioneering AI + Finance (AiFi).  
 Each table below covers a specific “tokenization” category, with columns for **Project**, **Overview**, **Mission**, **Key Offerings**, **What They Do Well**, and **Website**.  
